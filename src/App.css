@@ -1,0 +1,21 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.messages {
+  border: 1px solid #ddd;
+  padding: 10px;
+  max-height: 300px;
+  overflow-y: scroll;
+}
+
+input {
+  padding: 5px;
+  margin: 10px 0;
+  width: 80%;
+}
+
+button {
+  padding: 5px 10px;
+}
